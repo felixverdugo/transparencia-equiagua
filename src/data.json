@@ -1,0 +1,107 @@
+[
+  {
+    "id_ageb": "1001",
+    "nombre_colonia_principal": "Tierra y Libertad",
+    "poblacion_ageb": 12500,
+    "geometria_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-109.935, 22.900],
+          [-109.925, 22.900],
+          [-109.925, 22.910],
+          [-109.935, 22.910],
+          [-109.935, 22.900]
+        ]
+      ]
+    },
+    "dias_asignados_ciclo": 2,
+    "duracion_ciclo_T": 14,
+    "poblacion_total_sistema": 145803,
+    "factor_beta": 0.85
+  },
+  {
+    "id_ageb": "1002",
+    "nombre_colonia_principal": "Centro",
+    "poblacion_ageb": 8300,
+    "geometria_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-109.920, 22.885],
+          [-109.910, 22.885],
+          [-109.910, 22.895],
+          [-109.920, 22.895],
+          [-109.920, 22.885]
+        ]
+      ]
+    },
+    "dias_asignados_ciclo": 1,
+    "duracion_ciclo_T": 14,
+    "poblacion_total_sistema": 145803,
+    "factor_beta": 0.85
+  },
+  {
+    "id_ageb": "1003",
+    "nombre_colonia_principal": "Lomas del Sol",
+    "poblacion_ageb": 15200,
+    "geometria_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-109.945, 22.910],
+          [-109.935, 22.910],
+          [-109.935, 22.920],
+          [-109.945, 22.920],
+          [-109.945, 22.910]
+        ]
+      ]
+    },
+    "dias_asignados_ciclo": 2,
+    "duracion_ciclo_T": 14,
+    "poblacion_total_sistema": 145803,
+    "factor_beta": 0.85
+  },
+  {
+    "id_ageb": "1004",
+    "nombre_colonia_principal": "El Tezal",
+    "poblacion_ageb": 5400,
+    "geometria_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-109.890, 22.895],
+          [-109.870, 22.895],
+          [-109.870, 22.910],
+          [-109.890, 22.910],
+          [-109.890, 22.895]
+        ]
+      ]
+    },
+    "dias_asignados_ciclo": 1,
+    "duracion_ciclo_T": 14,
+    "poblacion_total_sistema": 145803,
+    "factor_beta": 0.85
+  },
+  {
+    "id_ageb": "1005",
+    "nombre_colonia_principal": "Los Cangrejos",
+    "poblacion_ageb": 18900,
+    "geometria_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-109.955, 22.915],
+          [-109.945, 22.915],
+          [-109.945, 22.925],
+          [-109.955, 22.925],
+          [-109.955, 22.915]
+        ]
+      ]
+    },
+    "dias_asignados_ciclo": 3,
+    "duracion_ciclo_T": 14,
+    "poblacion_total_sistema": 145803,
+    "factor_beta": 0.85
+  }
+]

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-equi-purple: #575FF2;
+  --color-equi-blue: #3587F2;
+  --color-equi-navy: #102940;
+  --color-equi-teal: #12A68B;
+  --color-equi-cyan: #0796B8;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 dark:bg-equi-navy dark:text-slate-100 transition-colors duration-200;
+  }
+}
+
+.dark .map-tiles {
+  filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.7);
+}
