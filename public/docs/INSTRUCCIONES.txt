@@ -1,0 +1,3 @@
+Para que el botón de "Investigación Completa" funcione correctamente, por favor sube tu archivo PDF en esta misma carpeta y asegúrate de que se llame exactamente:
+
+investigacion_completa.pdf

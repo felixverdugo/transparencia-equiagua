@@ -72,7 +72,7 @@ export default function AdvancedPanel() {
         <section className="pt-4 border-t border-white/10">
           <h3 className="text-white font-medium mb-4">Recursos y Compromiso</h3>
           <div className="space-y-4">
-            <a href="#" className="flex items-center justify-between group p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-colors border border-white/5 hover:border-equi-purple/30">
+            <a href="/docs/investigacion_completa.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center justify-between group p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-colors border border-white/5 hover:border-equi-purple/30">
               <span className="text-sm text-slate-200 group-hover:text-equi-purple transition-colors">Investigación Completa (PDF)</span>
               <ExternalLink className="h-4 w-4 text-slate-500 group-hover:text-equi-purple transition-colors" />
             </a>
